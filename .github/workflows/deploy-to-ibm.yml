@@ -53,7 +53,7 @@ jobs:
         cat > manifest.yml << EOF
         ---
         applications:
-        - name: zkhm
+        - name: v2fly
           memory: 128M
           disk_quota: 128M
           routes:
